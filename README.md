@@ -28,6 +28,6 @@ $('a.smallimg.vbplogin').trigger('click');
 ```
 
 For more reference:
-http://vibethemes.com/documentation/wplms/knowledge-base/restricting-non-logged-in-user-to-see-the-free-unit/
-http://vibethemes.com/documentation/wplms/forums/topic/button-to-open-the-login-popup-of-default-theme/
-http://vibethemes.com/documentation/wplms/knowledge-base/open-login-popup-on-free-course-login-error/
+- http://vibethemes.com/documentation/wplms/knowledge-base/restricting-non-logged-in-user-to-see-the-free-unit/
+- http://vibethemes.com/documentation/wplms/forums/topic/button-to-open-the-login-popup-of-default-theme/
+- http://vibethemes.com/documentation/wplms/knowledge-base/open-login-popup-on-free-course-login-error/
